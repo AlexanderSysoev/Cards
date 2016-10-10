@@ -1,9 +1,0 @@
-D:\Code\Cards\Cards.UnitTests\obj\Debug\Cards.UnitTests.csprojResolveAssemblyReference.cache
-D:\Code\Cards\Cards.UnitTests\bin\Debug\Cards.UnitTests.dll
-D:\Code\Cards\Cards.UnitTests\bin\Debug\Cards.UnitTests.pdb
-D:\Code\Cards\Cards.UnitTests\bin\Debug\Cards.dll
-D:\Code\Cards\Cards.UnitTests\bin\Debug\nunit.framework.dll
-D:\Code\Cards\Cards.UnitTests\bin\Debug\Cards.pdb
-D:\Code\Cards\Cards.UnitTests\bin\Debug\nunit.framework.xml
-D:\Code\Cards\Cards.UnitTests\obj\Debug\Cards.UnitTests.dll
-D:\Code\Cards\Cards.UnitTests\obj\Debug\Cards.UnitTests.pdb
